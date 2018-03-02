@@ -1,3 +1,3 @@
 class User < ActiveRecord::Base
-	has_Secure_password
+	has_secure_password
 end
